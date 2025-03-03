@@ -1,0 +1,101 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Recomi",
+  "colors": {
+    "primary": "#803FE2",
+    "light": "#9E6CE8",
+    "dark": "#803FE2"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      { "tab": "User Guides",
+        "groups": [
+          {
+            "group": "Quick Start",
+            "pages": [
+              "user/introduction",
+              "user/best-practices"
+            ]
+          },
+          {
+            "group": "Manage",
+            "pages": [
+              "user/manage-team",
+              "user/manage-chatbot"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Integrations",
+        "groups": [
+          {
+            "group": "Integrations",
+            "pages": [
+              "integrations/notion",
+              "integrations/slack"
+            ]
+          }
+        ]
+      },
+      { 
+        "tab": "Developer Guides",
+        "groups": [
+          {
+            "group": "SDK",
+            "pages": [
+              "developer/sdk"
+            ]
+          },
+          {
+            "group": "API",
+            "pages": [
+              "developer/api"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "FAQ",
+        "groups": [
+          {
+            "group": "FAQ",
+            "pages": [
+              "faq/what-is-recomi",
+              "faq/is-recomi-free"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/powerdrillai/recomi_docs"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Get Started",
+      "href": "https://powerdrill.ai/recomi"
+    }
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/powerdrillai",
+      "youtube": "https://www.youtube.com/@powerdrill_ai",
+      "twitter": "https://twitter.com/powerdrillai",
+      "discord": "https://discord.gg/ZsyyD5ysRC",
+      "linkedin": "https://www.linkedin.com/company/powerdrill"
+    }
+  }
+}
