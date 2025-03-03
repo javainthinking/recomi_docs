@@ -18,13 +18,6 @@
               "user/introduction",
               "user/best-practices"
             ]
-          },
-          {
-            "group": "Manage",
-            "pages": [
-              "user/manage-team",
-              "user/manage-chatbot"
-            ]
           }
         ]
       },
@@ -36,23 +29,6 @@
             "pages": [
               "integrations/notion",
               "integrations/slack"
-            ]
-          }
-        ]
-      },
-      { 
-        "tab": "Developer Guides",
-        "groups": [
-          {
-            "group": "SDK",
-            "pages": [
-              "developer/sdk"
-            ]
-          },
-          {
-            "group": "API",
-            "pages": [
-              "developer/api"
             ]
           }
         ]
@@ -73,8 +49,8 @@
   },
 
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
