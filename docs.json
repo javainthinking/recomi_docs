@@ -27,8 +27,11 @@
           {
             "group": "Integrations",
             "pages": [
-              "integrations/notion",
-              "integrations/slack"
+              "integrations/bubble",
+              "integrations/framer",
+              "integrations/hostinger",
+              "integrations/webflow",
+              "integrations/wix"
             ]
           }
         ]
@@ -53,12 +56,6 @@
     "dark": "/logo/dark.png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "GitHub",
-        "href": "https://github.com/powerdrillai/recomi_docs"
-      }
-    ],
     "primary": {
       "type": "button",
       "label": "Get Started",
