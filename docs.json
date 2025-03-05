@@ -16,7 +16,8 @@
             "group": "Quick Start",
             "pages": [
               "user/introduction",
-              "user/business-scenario"
+              "user/business-scenario",
+              "user/embed_mode"
             ]
           }
         ]
