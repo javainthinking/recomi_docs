@@ -16,10 +16,13 @@
             "group": "Quick Start",
             "pages": [
               "user/introduction",
-              "user/best-practices"
+              "user/business-scenario"
             ]
           }
         ]
+      }
+    ]
+  },
       },
       {
         "tab": "Integrations",
