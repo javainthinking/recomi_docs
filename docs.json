@@ -31,6 +31,7 @@
               "integrations/bubble",
               "integrations/framer",
               "integrations/hostinger",
+              "integrations/squarespace",
               "integrations/webflow",
               "integrations/wix"
             ]
