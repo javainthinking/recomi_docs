@@ -34,6 +34,7 @@
               "integrations/squarespace",
               "integrations/webflow",
               "integrations/wix",
+              "integrations/google-chrome",
               "integrations/slack"
             ]
           }
